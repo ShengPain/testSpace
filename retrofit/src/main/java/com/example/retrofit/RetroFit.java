@@ -116,6 +116,10 @@ public class RetroFit <E extends Number> {
        return null;
     }
 
+    public static void main2(String[] args) {
+        System.out.println("sfdasfdasfsf");
+    }
+
 
 
 
