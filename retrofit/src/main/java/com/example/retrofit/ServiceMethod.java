@@ -19,7 +19,7 @@ public class ServiceMethod <R,V> {
         return callAdapter;
     }
 
-    public void setCallAdapter(CallAdapter<R, V> callAdapter) {
+    public void setCallAdapte(CallAdapter<R, V> callAdapter) {
         this.callAdapter = callAdapter;
     }
 
